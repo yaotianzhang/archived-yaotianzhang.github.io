@@ -879,7 +879,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #232323;
 }
 .cid-rQ9PuLYKyo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1110,7 +1110,7 @@ section.lazy-placeholder:after {
 }
 .cid-rQ9PuLYKyo .nav-link:hover,
 .cid-rQ9PuLYKyo .dropdown-item:hover {
-  color: #8849c7 !important;
+  color: #232323 !important;
 }
 .cid-sbbjoMLvgi {
   padding-top: 90px;
@@ -1271,8 +1271,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sbbe4hWiQe {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #f0ebf4;
 }
 .cid-sbbe4hWiQe .mbr-section-subtitle {
@@ -1290,18 +1290,11 @@ section.lazy-placeholder:after {
   -webkit-flex-shrink: 0;
 }
 .cid-sbbe4hWiQe .img-text {
-  width: 100px;
-  height: 100px;
-  font-size: 50px;
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
   border: 2px solid #efefef;
   border-radius: 50%;
-}
-@media (max-width: 991px) {
-  .cid-sbbe4hWiQe .img-text {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
 }
 @media (min-width: 992px) {
   .cid-sbbe4hWiQe .cards-block {
